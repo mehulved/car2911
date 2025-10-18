@@ -3,7 +3,6 @@ layout: page
 title: About
 favicon: 
 ---
-
 ## Car2911
 The journey started with a want to get a fuel efficient car for my office commute as the old ICE car was giving an extremely poor economy of 3-5 kmpl for  the dreaded HSR-Indiranagar and return route.
 
