@@ -1,5 +1,5 @@
 ---
-category: Getting Started
+category: Blogs
 favicon:
 title: Birthday By The Beach
 ---

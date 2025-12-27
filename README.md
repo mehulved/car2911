@@ -5,3 +5,4 @@ Familar with the car, hop on for the trips.
 
 ## Trip Down The Memory Lane
 - [Birthday by the Beach](bytb)
+- [Electric Trips](evtrips)
