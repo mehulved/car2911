@@ -22,6 +22,7 @@ IMO, 400-450 is the max range you need. The marginal utility kicks in after that
 * Focus on real world range, not just claimed value under ideal conditions.
 * Range should be from 100-20%. You don't want your battery to go below 20% too often. And avoid going below 10% except under dire circumstances.
 * With Tiago EV, I typically charge my car every 100-150 km depending on proximity of next charger. I plan to absolutely avoid having to go beyond 175 km. And be more cautious when there are hills involved.
+
 ## Charging Speed
 This is often an underlooked area while picking a EV. And it matters.
 ### Regular Charging
