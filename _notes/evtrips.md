@@ -1,7 +1,7 @@
 ---
 category: Blogs
 favicon:
-title: Electric Trips
+title: I Dream of Electric Trip
 ---
 # Skepticism
 Like most people around, despite jumping in on the EV bandwagon, I was skeptical of the infra for long distance trips. Thus I bought a cheap car with not so long range. Sufficient for city usage but fairly short for intercity travel.
